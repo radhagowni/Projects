@@ -1,7 +1,7 @@
 # PROJECTS
 
 Project 1:
-
+----------
 Project Name : Cannibals and Missionaries
 
 Language Used: Python
